@@ -1,6 +1,5 @@
 # Python-Codes
-coding examples using python
-The General Idea
+
 Write a program to read in and solve path-finding puzzles. Each puzzle consists of a sequence of
 integers, like this:
 3 6 4 1 3 4 2 5 3 0
